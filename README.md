@@ -16,6 +16,9 @@ The dataset used is `Mall_Customers.csv` obtained from **Kaggle** and includes:
 - **Annual Income (k$)**: Annual income in thousands of dollars.
 - **Spending Score (1-100)**: A score assigned based on customer behavior and spending habits.
 
+[Elbow Method](elbow-method.png)
+
+[Silhouette score for optimal K](Silhouette-score.png)
 ## Data Preprocessing
 Remove irrelevant columns, encode categorical variables, and normalize features.
 Optimal Clusters: Determine the ideal number of clusters using the Elbow Method and Silhouette Score.
