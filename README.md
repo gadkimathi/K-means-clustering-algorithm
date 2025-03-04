@@ -9,7 +9,7 @@ This project demonstrates how to segment retail customers based on their shoppin
 
 ## Dataset
 
-The dataset used is `Mall_Customers.csv` and includes:
+The dataset used is `Mall_Customers.csv` obtained from **Kaggle** and includes:
 - **CustomerID**: Unique identifier for each customer.
 - **Gender**: Customer gender.
 - **Age**: Customer's age.
